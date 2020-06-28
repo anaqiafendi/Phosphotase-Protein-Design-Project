@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<!DOCTYPE GBSet PUBLIC "-//NCBI//NCBI GBSeq/EN" "https://www.ncbi.nlm.nih.gov/dtd/NCBI_GBSeq.dtd">
+<GBSet>
+  <GBSeq>
+
+    <GBSeq_locus>NP_809733</GBSeq_locus>
+    <GBSeq_length>139</GBSeq_length>
+    <GBSeq_moltype>AA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>CON</GBSeq_division>
+    <GBSeq_update-date>27-JUL-2017</GBSeq_update-date>
+    <GBSeq_create-date>28-MAR-2003</GBSeq_create-date>
+    <GBSeq_definition>hypothetical protein BT_0820 [Bacteroides thetaiotaomicron VPI-5482]</GBSeq_definition>
+    <GBSeq_primary-accession>NP_809733</GBSeq_primary-accession>
+    <GBSeq_accession-version>NP_809733.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gnl|REF_mbpwusl|BT0820</GBSeqid>
+      <GBSeqid>ref|NP_809733.1|</GBSeqid>
+      <GBSeqid>gi|29346230</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA62913</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Bacteroides thetaiotaomicron VPI-5482</GBSeq_source>
+    <GBSeq_organism>Bacteroides thetaiotaomicron VPI-5482</GBSeq_organism>
+    <GBSeq_taxonomy>Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..139</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Xu,J.</GBAuthor>
+          <GBAuthor>Bjursell,M.K.</GBAuthor>
+          <GBAuthor>Himrod,J.</GBAuthor>
+          <GBAuthor>Deng,S.</GBAuthor>
+          <GBAuthor>Carmichael,L.K.</GBAuthor>
+          <GBAuthor>Chiang,H.C.</GBAuthor>
+          <GBAuthor>Hooper,L.V.</GBAuthor>
+          <GBAuthor>Gordon,J.I.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A genomic view of the human-Bacteroides thetaiotaomicron symbiosis</GBReference_title>
+        <GBReference_journal>Science 299 (5615), 2074-2076 (2003)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1126/science.1080029</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>12663928</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..139</GBReference_position>
+        <GBReference_consortium>NCBI Genome Project</GBReference_consortium>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (28-MAR-2003) National Center for Biotechnology Information, NIH, Bethesda, MD 20894, USA</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..139</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Xu,J.</GBAuthor>
+          <GBAuthor>Bjursell,M.K.</GBAuthor>
+          <GBAuthor>Himrod,J.</GBAuthor>
+          <GBAuthor>Deng,S.</GBAuthor>
+          <GBAuthor>Carmichael,L.K.</GBAuthor>
+          <GBAuthor>Chiang,H.C.</GBAuthor>
+          <GBAuthor>Hooper,L.V.</GBAuthor>
+          <GBAuthor>Gordon,J.I.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (31-OCT-2002) Department of Molecular Biology and Pharmacology, Washington University in St. Louis, 660 S. Euclid, St. Louis, MO 63110, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>REVIEWED REFSEQ: This record has been curated by NCBI staff. The reference sequence was derived from AAO75927.; RefSeq Category: Reference Genome TYS: Designated Type Strain UPR: UniProt Genome; Method: conceptual translation.</GBSeq_comment>
+    <GBSeq_source-db>REFSEQ: accession NC_004663.1</GBSeq_source-db>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..139</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>139</GBInterval_to>
+            <GBInterval_accession>NP_809733.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Bacteroides thetaiotaomicron VPI-5482</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>VPI-5482</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>type_material</GBQualifier_name>
+            <GBQualifier_value>type strain of Bacteroides thetaiotaomicron</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:226186</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>Protein</GBFeature_key>
+        <GBFeature_location>1..139</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>139</GBInterval_to>
+            <GBInterval_accession>NP_809733.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hypothetical protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>calculated_mol_wt</GBQualifier_name>
+            <GBQualifier_value>16431</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..139</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>139</GBInterval_to>
+            <GBInterval_accession>NP_809733.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>locus_tag</GBQualifier_name>
+            <GBQualifier_value>BT_0820</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>coded_by</GBQualifier_name>
+            <GBQualifier_value>complement(NC_004663.1:1013065..1013484)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>11</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:1074858</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_contig>join(WP_008761508.1:1..139)</GBSeq_contig>
+    <GBSeq_sequence>mtiavdfdgtivehryprigeeipfavetlkllqqekhrlilwsvregelldeaiewcrarglefyaankdypeeerdhqgfsrklkadlfiddrnvggipdwgiiyemikekktfadiysqqreentsqkkkrkwlpf</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA62913</GBXref_id>
+      </GBXref>
+      <GBXref>
+        <GBXref_dbname>Assembly</GBXref_dbname>
+        <GBXref_id>GCF_000011065.1</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>
+
+</GBSet>
